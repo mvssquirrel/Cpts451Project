@@ -1,0 +1,17 @@
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.exe
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.pdb
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.dll
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.xml
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.Properties.Resources.resources
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\ParseYelpData.csproj.GenerateResource.Cache
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.exe
+C:\Users\saylab0\Downloads\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.pdb
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.exe
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.pdb
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.exe
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.pdb
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.dll
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.xml
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\ParseYelpData.csprojResolveAssemblyReference.cache
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.Properties.Resources.resources
+C:\Users\mvs6_000\Desktop\Databases\ParseYelpData-CptS451(1)\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\ParseYelpData.csproj.GenerateResource.Cache
