@@ -1,0 +1,3 @@
+//this query assumes takes variables that are assigned from the user selection from database populated fields
+
+SELECT name,full_addr,num_checkins,review_count FROM business where state='" + state + "' AND city='" + city + "' AND zip='" + zip + "' ORDER BY business
